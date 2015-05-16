@@ -30,7 +30,7 @@
   </interface>  
   <class id="4" language="java" name="main.Truck" project="VehicleChain" file="/VehicleChain/src/main/Truck.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1040" y="360"/>    
+    <position height="-1" width="-1" x="1042" y="330"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -39,7 +39,7 @@
   </class>  
   <class id="5" language="java" name="main.MotorCycle" project="VehicleChain" 
     file="/VehicleChain/src/main/MotorCycle.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="474" y="373"/>    
+    <position height="-1" width="-1" x="546" y="338"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -48,7 +48,7 @@
   </class>  
   <class id="6" language="java" name="main.Car" project="VehicleChain" file="/VehicleChain/src/main/Car.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="787" y="369"/>    
+    <position height="-1" width="-1" x="799" y="322"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -57,7 +57,7 @@
   </class>  
   <class id="7" language="java" name="main.TestVehicle" project="VehicleChain" 
     file="/VehicleChain/src/main/TestVehicle.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="116" width="152" x="108" y="233"/>    
+    <position height="-1" width="-1" x="231" y="334"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
